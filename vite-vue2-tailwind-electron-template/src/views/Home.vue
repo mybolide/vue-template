@@ -13,8 +13,8 @@
 var COS = require('cos-js-sdk-v5')
 
 var cos = new COS({
-  SecretId: 'AKIDulSxHSRBmEUVNG8qNkxYw585rUzJOFuP',
-  SecretKey: 'Nelirz0ujLk3KRM3axNjvwpTxEIBvUqx'
+  SecretId: '*',
+  SecretKey: '*'
 });
 export default {
   name: 'home',
